@@ -1,4 +1,4 @@
-### Assignment
+### Project
 
 # Demographic Data Analyzer
 
